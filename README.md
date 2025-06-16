@@ -64,6 +64,7 @@ The Dash app will open in your browser at http://127.0.0.1:8050.
 Tags like: python, data-visualization, API-integration, weather-dashboard
 
 # OUTPUT OF CODE 
-![Image](https://github.com/user-attachments/assets/0a931d77-f3ee-4c20-bda1-ca206cd5ddbb)
+![Image](https://github.com/user-attachments/assets/0a931d77-f3ee-4c20-bda1-ca206cd5ddbb
+![Image](https://github.com/user-attachments/assets/5e9b546e-1824-480c-ade6-6695fba508ad)
 
 
